@@ -27,7 +27,7 @@
     "@webpack-blocks/dev-server2": "^0.4.0",
     "@webpack-blocks/webpack2": "^0.4.0",
     "babel-core": "^6.25.0",
-    "babel-eslint": "^7.2.3",
+    "@babel/eslint-parser": "7.11.0",
     "babel-loader": "^7.0.0",
     "babel-plugin-styled-components": "^1.1.4",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
